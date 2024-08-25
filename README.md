@@ -1,2 +1,2 @@
 # ITT11-BT-project
-Modelling Customer Behaviour using Graphical and Statistical Methods
+Modelling Customer Behaviour using Graphical and Statistical Methods. Developed and implemented a generalisation of the averaging process to model how social interactions and information propagation affect Net Promoter Score. This was an industrial research project in collaboration with BT and the Centre for Doctoral Training in Statistical Applied Mathematics at the University of Bath.
